@@ -5,7 +5,7 @@
       "userName": "Rojy",
       "email": "rojy@gmail.com",
       "password": "Rojy@1234"
-    },
+    }
   ],
   "todos": [
     {
@@ -27,6 +27,6 @@
       "date": "2024-06-29",
       "userId": "567f",
       "completed": true
-    },
+    }
   ]
 }

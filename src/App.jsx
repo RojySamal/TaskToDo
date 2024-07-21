@@ -5,7 +5,7 @@ import { TodoProvider } from "./context/TodoContext";
 import LoginPage from "./pages/LoginPage";
 import RegisterPage from "./pages/RegisterPage";
 import HomePage from "./pages/HomePage";
-import TodoPage from "./pages/ToDoPage";
+import TodoPage from "./pages/TodoPage";
 
 const App = () => (
   <Router>
