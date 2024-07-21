@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "567f",
+      "userName": "Rojy",
+      "email": "rojy@gmail.com",
+      "password": "Rojy@1234"
+    },
+  ],
+  "todos": [
+    {
+      "id": "97f5",
+      "title": "sleep",
+      "date": "2024-07-02",
+      "userId": "567f"
+    },
+    {
+      "id": "771c",
+      "title": "HomeWork",
+      "date": "2024-07-02",
+      "userId": "567f",
+      "completed": false
+    },
+    {
+      "id": "9d77",
+      "title": "Chips",
+      "date": "2024-06-29",
+      "userId": "567f",
+      "completed": true
+    },
+  ]
+}
