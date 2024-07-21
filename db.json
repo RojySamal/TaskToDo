@@ -5,6 +5,12 @@
       "userName": "Rojy",
       "email": "rojy@gmail.com",
       "password": "Rojy@1234"
+    },
+    {
+      "id": "0593",
+      "userName": "Omm",
+      "email": "omm@gmail.com",
+      "password": "Omm@1234"
     }
   ],
   "todos": [
@@ -27,6 +33,19 @@
       "date": "2024-06-29",
       "userId": "567f",
       "completed": true
+    },
+    {
+      "id": "f704",
+      "title": "dinner",
+      "date": "2024-08-02",
+      "userId": "567f"
+    },
+    {
+      "id": "7f06",
+      "title": "HomeWork",
+      "date": "2024-07-23",
+      "userId": "0593",
+      "completed": false
     }
   ]
 }
