@@ -11,6 +11,12 @@
       "userName": "Omm",
       "email": "omm@gmail.com",
       "password": "Omm@1234"
+    },
+    {
+      "id": "64f3",
+      "userName": "Arriyan",
+      "email": "arriyan@gmail.com",
+      "password": "Arriyan@1234"
     }
   ],
   "todos": [
@@ -45,6 +51,34 @@
       "title": "HomeWork",
       "date": "2024-07-23",
       "userId": "0593",
+      "completed": false
+    },
+    {
+      "id": "87e4",
+      "title": "DSA",
+      "date": "2024-09-09",
+      "userId": "64f3",
+      "completed": false
+    },
+    {
+      "id": "14c7",
+      "title": "Frontend",
+      "date": "2024-09-17",
+      "userId": "64f3",
+      "completed": true
+    },
+    {
+      "id": "14b8",
+      "title": "Backend",
+      "date": "2024-09-30",
+      "userId": "64f3",
+      "completed": true
+    },
+    {
+      "id": "9ce3",
+      "title": "Java",
+      "date": "2024-09-24",
+      "userId": "64f3",
       "completed": false
     }
   ]
