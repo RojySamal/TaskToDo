@@ -25,13 +25,12 @@ Ensure you have the following software installed:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/RojySamal/To-do.git
-cd TaskToDo
+git clone https://github.com/RojySamal/TaskToDo
 ```
 
 ### Install Dependencies
 
-Navigate to the project directory and install the required dependencies:
+After navigating to the project directory, install the required dependencies:
 
 ```bash
 npm install
